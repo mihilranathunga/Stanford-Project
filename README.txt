@@ -1,1 +1,3 @@
-This is my Standord Data Algorithm REpo
+This is my Stanford Data Algorithm Repo
+
+Changed Read me
